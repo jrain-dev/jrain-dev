@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Jordan</h1>
-<h3 align="center">An aspiring Fullstack Developer / Student</h3>
+<h3 align="center">A Fullstack Developer / Student</h3>
 
 - 🌱 I’m currently learning **Algorithm Analysis and System Design**
 
